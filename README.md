@@ -4,10 +4,9 @@
 </h1>
 
 <h4 align="center">
-  A <a href="https://distrobox.it/" target="_blank">Distroboc</a> section for Spaceship prompt
+  A <a href="https://distrobox.it/" target="_blank">Distrobox</a> section for Spaceship prompt
 </h4>
 
-# spaceeship Distrobox 
 A custom plugin for the [Spaceship Prompt](https://github.com/pyte1/spaceship-prompt) that displays the current [Distrobox](https://github.com/89luca89/distrobox) container you're in directly in your terminal prompt.
 
 ## Installing
@@ -78,7 +77,7 @@ SPACESHIP_PROMPT_ORDER=(
 | `SPACESHIP_DISTROBOX_SHOW`    | `true`                                    | Show the distrobox section                  |
 | `SPACESHIP_DISTROBOX_PREFIX`  | `$SPACESHIP_PROMPT_DEFAULT_PREFIX`        | Prefix before the section                   |
 | `SPACESHIP_DISTROBOX_SUFFIX`  | `$SPACESHIP_PROMPT_DEFAULT_SUFFIX`        | Suffix after the section                    |
-| `SPACESHIP_DISTROBOX_SYMBOL`  | ``                                      | Symbol to be shown before the container name |
+| `SPACESHIP_DISTROBOX_SYMBOL`  | `📦`                                      | Symbol to be shown before the container name |
 | `SPACESHIP_DISTROBOX_COLOR`   | `yellow`                                  | Color of the section                        |
 
 
