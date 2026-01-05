@@ -7,7 +7,7 @@
   A <a href="https://distrobox.it/" target="_blank">Distrobox</a> section for Spaceship prompt
 </h4>
 
-A custom plugin for the [Spaceship Prompt](https://github.com/pyte1/spaceship-prompt) that displays the current [Distrobox](https://github.com/89luca89/distrobox) container you're in directly in your terminal prompt.
+A custom plugin for the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) that displays the current [Distrobox](https://github.com/89luca89/distrobox) container you're in directly in your terminal prompt.
 
 ## Installing
 
