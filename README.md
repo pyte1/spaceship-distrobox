@@ -9,7 +9,7 @@
 
 A custom plugin for the [Spaceship Prompt](https://github.com/spaceship-prompt/spaceship-prompt) that displays the current [Distrobox](https://github.com/89luca89/distrobox) container you're in directly in your terminal prompt.
 
-![Example Prompt](https://github.com/pyte1/spaceship-distrobox/blob/main/spaceship-distrobox.png?raw=true)
+![Example Prompt](https://github.com/pyte1/spaceship-distrobox/blob/main/assets/img/spaceship-distrobox.png?raw=true)
 
 ## Installing
 
